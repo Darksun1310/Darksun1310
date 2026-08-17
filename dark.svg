@@ -315,8 +315,8 @@
     <text x="660" y="53" class="val" text-anchor="end">Data Science Student &amp; Developer</text>
     <!-- Row 3: Origin -->
     <text x="0" y="81" class="label">Origin</text>
-    <text x="67" y="81" class="dot-leader">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
-    <text x="660" y="81" class="val" text-anchor="end">hyderabad , india</text>
+    <text x="67" y="81" class="dot-leader">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+    <text x="660" y="81" class="val" text-anchor="end">Hyderabad, India</text>
     <!-- Row 4: Education -->
     <text x="0" y="109" class="label">Education</text>
     <text x="95" y="109" class="dot-leader">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>

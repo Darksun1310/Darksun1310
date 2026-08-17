@@ -1,0 +1,22 @@
+{
+  "name": "Mann Motivaras",
+  "username": "Darksun1310",
+  "role": "Data Science Student & Full-Stack Developer",
+  "location": "Hyderabad, India",
+  "education": "B.tech Data Science",
+  "status": "Building + Learning + Shipping",
+  "toolchain": ["VS Code", "Git", "Docker", "Figma"],
+  "languages": ["TypeScript", "Python", "JavaScript", "C++"],
+  "frontend": ["React", "Next.js", "Tailwind CSS"],
+  "backend": ["Node.js", "Express", "FastAPI"],
+  "database": ["PostgreSQL", "MongoDB", "Redis"],
+  "infra": ["Vercel", "AWS", "Docker"],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/mann-motivaras-2a79b7338?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "email": "darksun1319@gmail.com",
+    "Mobile Number": "7623013309",
+    "instagram": "https://www.instagram.com/_nyctophile_1310_?utm_source=qr&igsh=MmNjbWNzbTVsN2Ny"
+  },
+  "logos": ["react", "python", "vercel"],
+  "photo_path": "C:/Users/Mann/Downloads/my photo 1.jpeg"
+}

@@ -2,9 +2,9 @@
 
   <!-- PHASE 1: ANIMATED TERMINAL BANNER -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Mann Motivaras - Profile Banner" src="dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg?v=3">
+    <img alt="Mann Motivaras - Profile Banner" src="dark.svg?v=3" width="100%">
   </picture>
 
   <br><br>
